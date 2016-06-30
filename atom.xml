@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://elxris.rocks/"/>
-  <updated>2016-06-30T18:13:26.000Z</updated>
+  <updated>2016-06-30T18:32:31.000Z</updated>
   <id>http://elxris.rocks/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://elxris.rocks/2016/06/29/first-commit/"/>
     <id>http://elxris.rocks/2016/06/29/first-commit/</id>
     <published>2016-06-29T06:18:46.000Z</published>
-    <updated>2016-06-30T18:13:26.000Z</updated>
+    <updated>2016-06-30T18:32:31.000Z</updated>
     
-    <content type="html">&lt;p&gt;Bienvenido a mi blog, tengo ganas de empezar a escribir, por lo mientras quiero que sea útil para mí; a manera de bitácora, siempre hace falta una, al final no todos corremos con la suerte de tener un biógrafo personal. Además mi memoria es mala así que no sé de dónde voy a sacar toda esa información que un biógrafo pida.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Bienvenido a mi blog, tengo ganas de empezar a escribir, por lo mientras quiero que sea útil para mí; a manera de bitácora, siempre hace falta una, al final no todos corremos con la suerte de tener un biógrafo personal.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Además mi memoria es mala así que no sé de dónde voy a sacar toda esa información que un biógrafo pida.&lt;/p&gt;
 &lt;p&gt;En general, quiero hacer de este blog un lugar especial para mí. Que sea un portafolio de cosas que he hecho. Como un portafolio / blog.&lt;/p&gt;
 &lt;p&gt;En fin, espero nos veamos en futuras entradas del blog.&lt;/p&gt;
 &lt;p&gt;X.&lt;/p&gt;
@@ -30,7 +30,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Bienvenido a mi blog, tengo ganas de empezar a escribir, por lo mientras quiero que sea útil para mí; a manera de bitácora, siempre hace 
+      &lt;p&gt;Bienvenido a mi blog, tengo ganas de empezar a escribir, por lo mientras quiero que sea útil para mí; a manera de bitácora, siempre hace falta una, al final no todos corremos con la suerte de tener un biógrafo personal.&lt;br&gt;
     
     </summary>
     
